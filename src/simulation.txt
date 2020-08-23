@@ -1,0 +1,172 @@
+Tower Says: Baloon#B1(1) registered to weather tower
+Tower Says: Baloon#B2(2) registered to weather tower
+Tower Says: JetPlane#J1(3) registered to weather tower
+Tower Says: Helicopter#H1(4) registered to weather tower
+Tower Says: Helicopter#H2(5) registered to weather tower
+Tower Says: Helicopter#H3(6) registered to weather tower
+Tower Says: Baloon#B3(7) registered to weather tower
+Tower Says: JetPlane#J2(8) registered to weather tower
+Tower Says: Helicopter#H4(9) registered to weather tower
+Baloon#B1(1): Can somebody pop some Ice Cream?
+Baloon#B2(2): Rainy days, Rainy days, Rainy day.
+JetPlane#J1(3): It's good time to get the heights higher!
+Helicopter#H1(4): Machine heating up
+Helicopter#H2(5): The pool of fine cold soft sucks.
+Helicopter#H3(6): The chopper blades in a conflict with rain drops, who's gonna win?
+Baloon#B3(7): You can't see me...
+JetPlane#J2(8): This is normal but we must stay on guard.
+Helicopter#H4(9): Don't get lost, watch out!
+Baloon#B1(1): Rainy days, Rainy days, Rainy day.
+Baloon#B2(2): Rainy days, Rainy days, Rainy day.
+JetPlane#J1(3): The engine might freeze, down we go!
+Helicopter#H1(4): Don't get lost, watch out!
+Helicopter#H2(5): The chopper blades in a conflict with rain drops, who's gonna win?
+Helicopter#H3(6): The chopper blades in a conflict with rain drops, who's gonna win?
+Baloon#B3(7): Let's destroy the snowman on the ground.
+JetPlane#J2(8): Don't get too comfortable...
+Helicopter#H4(9): Machine heating up
+Baloon#B1(1): You can't see me...
+Baloon#B2(2): Rainy days, Rainy days, Rainy day.
+JetPlane#J1(3): Don't get too comfortable...
+Helicopter#H1(4): Don't get lost, watch out!
+Helicopter#H2(5): Machine heating up
+Helicopter#H3(6): Machine heating up
+Baloon#B3(7): Rainy days, Rainy days, Rainy day.
+JetPlane#J2(8): This is normal but we must stay on guard.
+Helicopter#H4(9): The chopper blades in a conflict with rain drops, who's gonna win?
+Baloon#B1(1): Rainy days, Rainy days, Rainy day.
+Baloon#B2(2): Rainy days, Rainy days, Rainy day.
+JetPlane#J1(3): This is normal but we must stay on guard.
+Helicopter#H1(4): The chopper blades in a conflict with rain drops, who's gonna win?
+Helicopter#H2(5): Machine heating up
+Helicopter#H3(6): Machine heating up
+Baloon#B3(7): You can't see me...
+JetPlane#J2(8): This is normal but we must stay on guard.
+Helicopter#H4(9): The chopper blades in a conflict with rain drops, who's gonna win?
+Baloon#B1(1): Can somebody pop some Ice Cream?
+Baloon#B2(2): Rainy days, Rainy days, Rainy day.
+JetPlane#J1(3): Don't get too comfortable...
+Helicopter#H1(4): Don't get lost, watch out!
+Helicopter#H2(5): Machine heating up
+Helicopter#H3(6): Machine heating up
+Baloon#B3(7): Can somebody pop some Ice Cream?
+JetPlane#J2(8): Don't get too comfortable...
+Helicopter#H4(9): The pool of fine cold soft sucks.
+Baloon#B1(1): Can somebody pop some Ice Cream?
+Baloon#B2(2): You can't see me...
+JetPlane#J1(3): This is normal but we must stay on guard.
+Helicopter#H1(4): The pool of fine cold soft sucks.
+Helicopter#H2(5): Machine heating up
+Helicopter#H3(6): Don't get lost, watch out!
+Baloon#B3(7): Rainy days, Rainy days, Rainy day.
+JetPlane#J2(8): The engine might freeze, down we go!
+Helicopter#H4(9): Machine heating up
+Baloon#B1(1): Let's destroy the snowman on the ground.
+Baloon#B2(2): You can't see me...
+JetPlane#J1(3): This is normal but we must stay on guard.
+Helicopter#H1(4): The chopper blades in a conflict with rain drops, who's gonna win?
+Helicopter#H2(5): Don't get lost, watch out!
+Helicopter#H3(6): The chopper blades in a conflict with rain drops, who's gonna win?
+Baloon#B3(7): landing.
+Tower Says: Baloon#B3(7) unregistered from weather tower
+JetPlane#J2(8): The engine might freeze, down we go!
+Helicopter#H4(9): The chopper blades in a conflict with rain drops, who's gonna win?
+Baloon#B1(1): You can't see me...
+Baloon#B2(2): Can somebody pop some Ice Cream?
+JetPlane#J1(3): The engine might freeze, down we go!
+Helicopter#H1(4): The chopper blades in a conflict with rain drops, who's gonna win?
+Helicopter#H2(5): Machine heating up
+Helicopter#H3(6): Machine heating up
+JetPlane#J2(8): This is normal but we must stay on guard.
+Helicopter#H4(9): The pool of fine cold soft sucks.
+Baloon#B1(1): landing.
+Tower Says: Baloon#B1(1) unregistered from weather tower
+Baloon#B2(2): You can't see me...
+JetPlane#J1(3): The engine might freeze, down we go!
+Helicopter#H1(4): Don't get lost, watch out!
+Helicopter#H2(5): Don't get lost, watch out!
+Helicopter#H3(6): Don't get lost, watch out!
+JetPlane#J2(8): It's good time to get the heights higher!
+Helicopter#H4(9): The pool of fine cold soft sucks.
+Baloon#B2(2): You can't see me...
+JetPlane#J1(3): The engine might freeze, down we go!
+Helicopter#H1(4): Don't get lost, watch out!
+Helicopter#H2(5): Don't get lost, watch out!
+Helicopter#H3(6): Don't get lost, watch out!
+JetPlane#J2(8): This is normal but we must stay on guard.
+Helicopter#H4(9): Machine heating up
+Baloon#B2(2): Can somebody pop some Ice Cream?
+JetPlane#J1(3): Don't get too comfortable...
+Helicopter#H1(4): The chopper blades in a conflict with rain drops, who's gonna win?
+Helicopter#H2(5): Don't get lost, watch out!
+Helicopter#H3(6): The chopper blades in a conflict with rain drops, who's gonna win?
+JetPlane#J2(8): This is normal but we must stay on guard.
+Helicopter#H4(9): Don't get lost, watch out!
+Baloon#B2(2): Let's destroy the snowman on the ground.
+JetPlane#J1(3): Don't get too comfortable...
+Helicopter#H1(4): landing.
+Tower Says: Helicopter#H1(4) unregistered from weather tower
+Helicopter#H2(5): Don't get lost, watch out!
+Helicopter#H3(6): Don't get lost, watch out!
+JetPlane#J2(8): Don't get too comfortable...
+Helicopter#H4(9): Don't get lost, watch out!
+Baloon#B2(2): Rainy days, Rainy days, Rainy day.
+JetPlane#J1(3): Don't get too comfortable...
+Helicopter#H2(5): Machine heating up
+Helicopter#H3(6): Machine heating up
+JetPlane#J2(8): It's good time to get the heights higher!
+Helicopter#H4(9): The pool of fine cold soft sucks.
+Baloon#B2(2): Can somebody pop some Ice Cream?
+JetPlane#J1(3): It's good time to get the heights higher!
+Helicopter#H2(5): The pool of fine cold soft sucks.
+Helicopter#H3(6): Machine heating up
+JetPlane#J2(8): The engine might freeze, down we go!
+Helicopter#H4(9): Don't get lost, watch out!
+Baloon#B2(2): You can't see me...
+JetPlane#J1(3): The engine might freeze, down we go!
+Helicopter#H2(5): The chopper blades in a conflict with rain drops, who's gonna win?
+Helicopter#H3(6): The chopper blades in a conflict with rain drops, who's gonna win?
+JetPlane#J2(8): Don't get too comfortable...
+Helicopter#H4(9): Machine heating up
+Baloon#B2(2): Rainy days, Rainy days, Rainy day.
+JetPlane#J1(3): It's good time to get the heights higher!
+Helicopter#H2(5): The chopper blades in a conflict with rain drops, who's gonna win?
+Helicopter#H3(6): Don't get lost, watch out!
+JetPlane#J2(8): Don't get too comfortable...
+Helicopter#H4(9): Don't get lost, watch out!
+Baloon#B2(2): landing.
+Tower Says: Baloon#B2(2) unregistered from weather tower
+JetPlane#J1(3): Don't get too comfortable...
+Helicopter#H2(5): The chopper blades in a conflict with rain drops, who's gonna win?
+Helicopter#H3(6): The pool of fine cold soft sucks.
+JetPlane#J2(8): This is normal but we must stay on guard.
+Helicopter#H4(9): Don't get lost, watch out!
+JetPlane#J1(3): landing.
+Tower Says: JetPlane#J1(3) unregistered from weather tower
+Helicopter#H2(5): Don't get lost, watch out!
+Helicopter#H3(6): Don't get lost, watch out!
+JetPlane#J2(8): This is normal but we must stay on guard.
+Helicopter#H4(9): The chopper blades in a conflict with rain drops, who's gonna win?
+Helicopter#H2(5): Machine heating up
+Helicopter#H3(6): Don't get lost, watch out!
+JetPlane#J2(8): Don't get too comfortable...
+Helicopter#H4(9): Don't get lost, watch out!
+Helicopter#H2(5): The pool of fine cold soft sucks.
+Helicopter#H3(6): Machine heating up
+JetPlane#J2(8): Don't get too comfortable...
+Helicopter#H4(9): The pool of fine cold soft sucks.
+Helicopter#H2(5): The pool of fine cold soft sucks.
+Helicopter#H3(6): Don't get lost, watch out!
+JetPlane#J2(8): This is normal but we must stay on guard.
+Helicopter#H4(9): landing.
+Tower Says: Helicopter#H4(9) unregistered from weather tower
+Helicopter#H2(5): landing.
+Tower Says: Helicopter#H2(5) unregistered from weather tower
+Helicopter#H3(6): Machine heating up
+JetPlane#J2(8): This is normal but we must stay on guard.
+Helicopter#H3(6): Machine heating up
+JetPlane#J2(8): This is normal but we must stay on guard.
+Helicopter#H3(6): The chopper blades in a conflict with rain drops, who's gonna win?
+JetPlane#J2(8): Don't get too comfortable...
+Helicopter#H3(6): Machine heating up
+JetPlane#J2(8): It's good time to get the heights higher!

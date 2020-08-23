@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cd ..
+find . -name "*.java" > sources.txt; javac @sources.txt
+cd src/ 
+java wethinkcode/program/Launch $1
