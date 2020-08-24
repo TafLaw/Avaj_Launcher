@@ -29,6 +29,8 @@ public class WeatherProvider {
         int bound = coordinates.getHeight() + coordinates.getLatitude() + coordinates.getLongitude();
 
         Random randomInt = new Random();
+        if(bound < 0)
+            bound *= -1;
 
         decider = randomInt.nextInt(bound);
         if (decider <= Math.round((20*bound)/100))
