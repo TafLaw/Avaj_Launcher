@@ -21,7 +21,7 @@ public class Helicopter extends Aircraft implements Flyable{
         HashMap<String, String> weatherMessages = new HashMap<>();
         weatherMessages.put("SUN", "Machine heating up");
         weatherMessages.put("FOG", "Don't get lost, watch out!");
-        weatherMessages.put("SNOW", "The pool of fine cold soft sucks.");
+        weatherMessages.put("SNOW", "The pool of fine cold salt sucks.");
         weatherMessages.put("RAIN", "The chopper blades in a conflict with rain drops, who's gonna win?");
 
         switch (currentWeather)
