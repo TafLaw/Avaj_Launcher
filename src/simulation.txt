@@ -7,119 +7,199 @@ Tower Says: Helicopter#H1(6) registered to weather tower
 Tower Says: Baloon#B3(7) registered to weather tower
 Tower Says: JetPlane#J2(8) registered to weather tower
 Tower Says: Helicopter#H1(9) registered to weather tower
-Baloon#B1(1): Rainy days, Rainy days, Rainy day.
-Baloon#B1(2): Rainy days, Rainy days, Rainy day.
-JetPlane#J1(3): This is normal but we must stay on guard.
+Baloon#B1(1): Let's destroy the snowman on the ground.
+Baloon#B1(2): Let's destroy the snowman on the ground.
+JetPlane#J1(3): It's good time to get the heights higher!
 Helicopter#H1(4): landing.
 Tower Says: Helicopter#H1(4) unregistered from weather tower
 Helicopter#H1(5): Machine heating up
-Helicopter#H1(6): The pool of fine cold soft sucks.
+Helicopter#H1(6): Machine heating up
 Baloon#B3(7): Let's destroy the snowman on the ground.
 JetPlane#J2(8): landing.
 Tower Says: JetPlane#J2(8) unregistered from weather tower
-Helicopter#H1(9): The pool of fine cold soft sucks.
-Baloon#B1(1): Rainy days, Rainy days, Rainy day.
+Helicopter#H1(9): Machine heating up
+Baloon#B1(1): landing.
+Tower Says: Baloon#B1(1) unregistered from weather tower
 Baloon#B1(2): Rainy days, Rainy days, Rainy day.
 JetPlane#J1(3): Don't get too comfortable...
-Helicopter#H1(5): The pool of fine cold soft sucks.
-Helicopter#H1(6): The chopper blades in a conflict with rain drops, who's gonna win?
-Baloon#B3(7): You can't see me...
-Helicopter#H1(9): The chopper blades in a conflict with rain drops, who's gonna win?
-Baloon#B1(1): You can't see me...
+Helicopter#H1(5): The chopper blades in a conflict with rain drops, who's gonna win?
+Helicopter#H1(6): Don't get lost, watch out!
+Baloon#B3(7): Can somebody pop some Ice Cream?
+Helicopter#H1(9): Don't get lost, watch out!
 Baloon#B1(2): Rainy days, Rainy days, Rainy day.
 JetPlane#J1(3): The engine might freeze, down we go!
 Helicopter#H1(5): Don't get lost, watch out!
-Helicopter#H1(6): Machine heating up
-Baloon#B3(7): Can somebody pop some Ice Cream?
-Helicopter#H1(9): Don't get lost, watch out!
-Baloon#B1(1): Rainy days, Rainy days, Rainy day.
-Baloon#B1(2): Rainy days, Rainy days, Rainy day.
-JetPlane#J1(3): landing.
-Tower Says: JetPlane#J1(3) unregistered from weather tower
-Helicopter#H1(5): The chopper blades in a conflict with rain drops, who's gonna win?
-Helicopter#H1(6): The pool of fine cold soft sucks.
-Baloon#B3(7): You can't see me...
-Helicopter#H1(9): The chopper blades in a conflict with rain drops, who's gonna win?
-Baloon#B1(1): landing.
-Tower Says: Baloon#B1(1) unregistered from weather tower
-Baloon#B1(2): Can somebody pop some Ice Cream?
-Helicopter#H1(5): The chopper blades in a conflict with rain drops, who's gonna win?
-Helicopter#H1(6): Don't get lost, watch out!
-Baloon#B3(7): Rainy days, Rainy days, Rainy day.
-Helicopter#H1(9): The chopper blades in a conflict with rain drops, who's gonna win?
-Baloon#B1(2): Can somebody pop some Ice Cream?
-Helicopter#H1(5): The chopper blades in a conflict with rain drops, who's gonna win?
-Helicopter#H1(6): The pool of fine cold soft sucks.
-Baloon#B3(7): Can somebody pop some Ice Cream?
-Helicopter#H1(9): Machine heating up
-Baloon#B1(2): Let's destroy the snowman on the ground.
-Helicopter#H1(5): The chopper blades in a conflict with rain drops, who's gonna win?
-Helicopter#H1(6): Don't get lost, watch out!
-Baloon#B3(7): Can somebody pop some Ice Cream?
-Helicopter#H1(9): The chopper blades in a conflict with rain drops, who's gonna win?
-Baloon#B1(2): Rainy days, Rainy days, Rainy day.
-Helicopter#H1(5): Machine heating up
-Helicopter#H1(6): Don't get lost, watch out!
-Baloon#B3(7): Can somebody pop some Ice Cream?
-Helicopter#H1(9): Don't get lost, watch out!
-Baloon#B1(2): You can't see me...
-Helicopter#H1(5): Don't get lost, watch out!
-Helicopter#H1(6): Machine heating up
-Baloon#B3(7): Can somebody pop some Ice Cream?
-Helicopter#H1(9): The pool of fine cold soft sucks.
-Baloon#B1(2): Let's destroy the snowman on the ground.
-Helicopter#H1(5): Machine heating up
-Helicopter#H1(6): Don't get lost, watch out!
-Baloon#B3(7): Can somebody pop some Ice Cream?
-Helicopter#H1(9): The chopper blades in a conflict with rain drops, who's gonna win?
-Baloon#B1(2): Rainy days, Rainy days, Rainy day.
-Helicopter#H1(5): Don't get lost, watch out!
 Helicopter#H1(6): The chopper blades in a conflict with rain drops, who's gonna win?
 Baloon#B3(7): Can somebody pop some Ice Cream?
 Helicopter#H1(9): Machine heating up
+Baloon#B1(2): Let's destroy the snowman on the ground.
+JetPlane#J1(3): Don't get too comfortable...
+Helicopter#H1(5): Machine heating up
+Helicopter#H1(6): Don't get lost, watch out!
+Baloon#B3(7): You can't see me...
+Helicopter#H1(9): The chopper blades in a conflict with rain drops, who's gonna win?
+Baloon#B1(2): Can somebody pop some Ice Cream?
+JetPlane#J1(3): This is normal but we must stay on guard.
+Helicopter#H1(5): Machine heating up
+Helicopter#H1(6): The pool of fine cold soft sucks.
+Baloon#B3(7): Rainy days, Rainy days, Rainy day.
+Helicopter#H1(9): The chopper blades in a conflict with rain drops, who's gonna win?
+Baloon#B1(2): Rainy days, Rainy days, Rainy day.
+JetPlane#J1(3): Don't get too comfortable...
+Helicopter#H1(5): Don't get lost, watch out!
+Helicopter#H1(6): The chopper blades in a conflict with rain drops, who's gonna win?
+Baloon#B3(7): Let's destroy the snowman on the ground.
+Helicopter#H1(9): Don't get lost, watch out!
+Baloon#B1(2): Rainy days, Rainy days, Rainy day.
+JetPlane#J1(3): This is normal but we must stay on guard.
+Helicopter#H1(5): The pool of fine cold soft sucks.
+Helicopter#H1(6): The pool of fine cold soft sucks.
+Baloon#B3(7): landing.
+Tower Says: Baloon#B3(7) unregistered from weather tower
+Helicopter#H1(9): The pool of fine cold soft sucks.
+Baloon#B1(2): Can somebody pop some Ice Cream?
+JetPlane#J1(3): Don't get too comfortable...
+Helicopter#H1(5): Don't get lost, watch out!
+Helicopter#H1(6): Don't get lost, watch out!
+Helicopter#H1(9): The pool of fine cold soft sucks.
+Baloon#B1(2): You can't see me...
+JetPlane#J1(3): landing.
+Tower Says: JetPlane#J1(3) unregistered from weather tower
+Helicopter#H1(5): Don't get lost, watch out!
+Helicopter#H1(6): Don't get lost, watch out!
+Helicopter#H1(9): Don't get lost, watch out!
+Baloon#B1(2): Rainy days, Rainy days, Rainy day.
+Helicopter#H1(5): Don't get lost, watch out!
+Helicopter#H1(6): The chopper blades in a conflict with rain drops, who's gonna win?
+Helicopter#H1(9): Machine heating up
+Baloon#B1(2): Rainy days, Rainy days, Rainy day.
+Helicopter#H1(5): The pool of fine cold soft sucks.
+Helicopter#H1(6): The chopper blades in a conflict with rain drops, who's gonna win?
+Helicopter#H1(9): Don't get lost, watch out!
+Baloon#B1(2): Rainy days, Rainy days, Rainy day.
+Helicopter#H1(5): The pool of fine cold soft sucks.
+Helicopter#H1(6): Don't get lost, watch out!
+Helicopter#H1(9): Don't get lost, watch out!
+Baloon#B1(2): Can somebody pop some Ice Cream?
+Helicopter#H1(5): Machine heating up
+Helicopter#H1(6): Don't get lost, watch out!
+Helicopter#H1(9): The chopper blades in a conflict with rain drops, who's gonna win?
 Baloon#B1(2): You can't see me...
 Helicopter#H1(5): The chopper blades in a conflict with rain drops, who's gonna win?
 Helicopter#H1(6): Machine heating up
-Baloon#B3(7): Rainy days, Rainy days, Rainy day.
+Helicopter#H1(9): The chopper blades in a conflict with rain drops, who's gonna win?
+Baloon#B1(2): Rainy days, Rainy days, Rainy day.
+Helicopter#H1(5): The pool of fine cold soft sucks.
+Helicopter#H1(6): The pool of fine cold soft sucks.
 Helicopter#H1(9): Don't get lost, watch out!
 Baloon#B1(2): landing.
 Tower Says: Baloon#B1(2) unregistered from weather tower
-Helicopter#H1(5): The pool of fine cold soft sucks.
+Helicopter#H1(5): The chopper blades in a conflict with rain drops, who's gonna win?
+Helicopter#H1(6): The pool of fine cold soft sucks.
+Helicopter#H1(9): The chopper blades in a conflict with rain drops, who's gonna win?
+Helicopter#H1(5): Machine heating up
+Helicopter#H1(6): The chopper blades in a conflict with rain drops, who's gonna win?
+Helicopter#H1(9): Machine heating up
+Helicopter#H1(5): The chopper blades in a conflict with rain drops, who's gonna win?
+Helicopter#H1(6): Don't get lost, watch out!
+Helicopter#H1(9): The pool of fine cold soft sucks.
+Helicopter#H1(5): Machine heating up
 Helicopter#H1(6): Machine heating up
-Baloon#B3(7): Let's destroy the snowman on the ground.
+Helicopter#H1(9): Don't get lost, watch out!
+Helicopter#H1(5): Machine heating up
+Helicopter#H1(6): Don't get lost, watch out!
+Helicopter#H1(9): Don't get lost, watch out!
+Helicopter#H1(5): Don't get lost, watch out!
+Helicopter#H1(6): Don't get lost, watch out!
 Helicopter#H1(9): The chopper blades in a conflict with rain drops, who's gonna win?
 Helicopter#H1(5): Machine heating up
 Helicopter#H1(6): The pool of fine cold soft sucks.
-Baloon#B3(7): Let's destroy the snowman on the ground.
-Helicopter#H1(9): Don't get lost, watch out!
-Helicopter#H1(5): Don't get lost, watch out!
-Helicopter#H1(6): Machine heating up
-Baloon#B3(7): landing.
-Tower Says: Baloon#B3(7) unregistered from weather tower
+Helicopter#H1(9): The chopper blades in a conflict with rain drops, who's gonna win?
+Helicopter#H1(5): The chopper blades in a conflict with rain drops, who's gonna win?
+Helicopter#H1(6): Don't get lost, watch out!
+Helicopter#H1(9): The chopper blades in a conflict with rain drops, who's gonna win?
+Helicopter#H1(5): The chopper blades in a conflict with rain drops, who's gonna win?
+Helicopter#H1(6): Don't get lost, watch out!
 Helicopter#H1(9): Don't get lost, watch out!
 Helicopter#H1(5): The chopper blades in a conflict with rain drops, who's gonna win?
 Helicopter#H1(6): The chopper blades in a conflict with rain drops, who's gonna win?
-Helicopter#H1(9): The pool of fine cold soft sucks.
+Helicopter#H1(9): The chopper blades in a conflict with rain drops, who's gonna win?
+Helicopter#H1(5): Machine heating up
+Helicopter#H1(6): Machine heating up
+Helicopter#H1(9): Don't get lost, watch out!
+Helicopter#H1(5): The chopper blades in a conflict with rain drops, who's gonna win?
+Helicopter#H1(6): The pool of fine cold soft sucks.
+Helicopter#H1(9): The chopper blades in a conflict with rain drops, who's gonna win?
+Helicopter#H1(5): Don't get lost, watch out!
+Helicopter#H1(6): Machine heating up
+Helicopter#H1(9): Don't get lost, watch out!
+Helicopter#H1(5): The chopper blades in a conflict with rain drops, who's gonna win?
+Helicopter#H1(6): Machine heating up
+Helicopter#H1(9): Don't get lost, watch out!
+Helicopter#H1(5): Don't get lost, watch out!
+Helicopter#H1(6): The chopper blades in a conflict with rain drops, who's gonna win?
+Helicopter#H1(9): Machine heating up
+Helicopter#H1(5): The chopper blades in a conflict with rain drops, who's gonna win?
+Helicopter#H1(6): Don't get lost, watch out!
+Helicopter#H1(9): Machine heating up
+Helicopter#H1(5): Machine heating up
+Helicopter#H1(6): Don't get lost, watch out!
+Helicopter#H1(9): Don't get lost, watch out!
+Helicopter#H1(5): Don't get lost, watch out!
+Helicopter#H1(6): The chopper blades in a conflict with rain drops, who's gonna win?
+Helicopter#H1(9): Don't get lost, watch out!
+Helicopter#H1(5): The pool of fine cold soft sucks.
+Helicopter#H1(6): The chopper blades in a conflict with rain drops, who's gonna win?
+Helicopter#H1(9): The chopper blades in a conflict with rain drops, who's gonna win?
 Helicopter#H1(5): The chopper blades in a conflict with rain drops, who's gonna win?
 Helicopter#H1(6): The chopper blades in a conflict with rain drops, who's gonna win?
 Helicopter#H1(9): Machine heating up
+Helicopter#H1(5): The pool of fine cold soft sucks.
+Helicopter#H1(6): The chopper blades in a conflict with rain drops, who's gonna win?
+Helicopter#H1(9): Don't get lost, watch out!
 Helicopter#H1(5): Don't get lost, watch out!
 Helicopter#H1(6): The chopper blades in a conflict with rain drops, who's gonna win?
 Helicopter#H1(9): The pool of fine cold soft sucks.
-Helicopter#H1(5): The chopper blades in a conflict with rain drops, who's gonna win?
+Helicopter#H1(5): Machine heating up
 Helicopter#H1(6): The chopper blades in a conflict with rain drops, who's gonna win?
-Helicopter#H1(9): Don't get lost, watch out!
-Helicopter#H1(5): The chopper blades in a conflict with rain drops, who's gonna win?
-Helicopter#H1(6): The pool of fine cold soft sucks.
+Helicopter#H1(9): The pool of fine cold soft sucks.
+Helicopter#H1(5): Machine heating up
+Helicopter#H1(6): The chopper blades in a conflict with rain drops, who's gonna win?
 Helicopter#H1(9): landing.
 Tower Says: Helicopter#H1(9) unregistered from weather tower
-Helicopter#H1(5): The pool of fine cold soft sucks.
-Helicopter#H1(6): Don't get lost, watch out!
-Helicopter#H1(5): The pool of fine cold soft sucks.
-Helicopter#H1(6): The pool of fine cold soft sucks.
 Helicopter#H1(5): Don't get lost, watch out!
 Helicopter#H1(6): Don't get lost, watch out!
 Helicopter#H1(5): The pool of fine cold soft sucks.
+Helicopter#H1(6): Don't get lost, watch out!
+Helicopter#H1(5): The chopper blades in a conflict with rain drops, who's gonna win?
+Helicopter#H1(6): The pool of fine cold soft sucks.
+Helicopter#H1(5): The chopper blades in a conflict with rain drops, who's gonna win?
+Helicopter#H1(6): Don't get lost, watch out!
+Helicopter#H1(5): Don't get lost, watch out!
+Helicopter#H1(6): Machine heating up
+Helicopter#H1(5): The chopper blades in a conflict with rain drops, who's gonna win?
+Helicopter#H1(6): Don't get lost, watch out!
+Helicopter#H1(5): Don't get lost, watch out!
+Helicopter#H1(6): The chopper blades in a conflict with rain drops, who's gonna win?
+Helicopter#H1(5): Don't get lost, watch out!
+Helicopter#H1(6): The pool of fine cold soft sucks.
+Helicopter#H1(5): The chopper blades in a conflict with rain drops, who's gonna win?
+Helicopter#H1(6): Don't get lost, watch out!
+Helicopter#H1(5): Machine heating up
+Helicopter#H1(6): The chopper blades in a conflict with rain drops, who's gonna win?
+Helicopter#H1(5): Don't get lost, watch out!
+Helicopter#H1(6): The pool of fine cold soft sucks.
+Helicopter#H1(5): Don't get lost, watch out!
 Helicopter#H1(6): The chopper blades in a conflict with rain drops, who's gonna win?
 Helicopter#H1(5): The chopper blades in a conflict with rain drops, who's gonna win?
+Helicopter#H1(6): The chopper blades in a conflict with rain drops, who's gonna win?
+Helicopter#H1(5): Don't get lost, watch out!
+Helicopter#H1(6): The chopper blades in a conflict with rain drops, who's gonna win?
+Helicopter#H1(5): The pool of fine cold soft sucks.
 Helicopter#H1(6): Machine heating up
+Helicopter#H1(5): Machine heating up
+Helicopter#H1(6): landing.
+Tower Says: Helicopter#H1(6) unregistered from weather tower
+Helicopter#H1(5): The chopper blades in a conflict with rain drops, who's gonna win?
+Helicopter#H1(5): landing.
+Tower Says: Helicopter#H1(5) unregistered from weather tower

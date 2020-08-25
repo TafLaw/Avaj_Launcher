@@ -16,8 +16,8 @@ public abstract class Tower {
 
     public void unregister(Flyable flyable)
     {
-        if(observers.contains(flyable)){
-            observers.remove(flyable);}
+        if(observers.contains(flyable))
+            observers.remove(flyable);
     }
 
     protected void conditionsChanged()
